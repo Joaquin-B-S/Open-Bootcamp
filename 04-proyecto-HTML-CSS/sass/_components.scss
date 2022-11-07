@@ -60,3 +60,50 @@ $color-main: #0075ff;
     box-shadow: 0 0 10px #00000055;
   }
 }
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  .icon {
+    color: $color-main;
+    font-size: 10rem;
+  }
+
+  .description {
+    .title {
+      font-size: 2rem;
+    }
+
+    .text {
+      color: #888;
+      font-weight: 600;
+    }
+  }
+
+  .cta {
+    margin-top: 3rem;
+    color: $color-main;
+    font-weight: 600;
+  }
+}
+
+.icon-desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .icon {
+    color: $color-main;
+    font-size: 10rem;
+    padding: 0;
+  }
+
+  .title {
+    margin-top: -2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+}
