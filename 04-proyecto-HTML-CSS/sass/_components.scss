@@ -44,31 +44,43 @@ $color-main: #0075ff;
 }
 
 .main-menu {
+  margin-bottom: 0;
+
   li {
-    font-size: 0.5rem;
+    font-size: 0.75rem;
     list-style: none;
     display: inline;
+    margin-right: 2rem;
+
+    a {
+      color: #000;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }
 
 .icon-sm {
   i {
-    font-size: 0.75rem;
-    padding: 0.1rem 0.25rem;
+    font-size: 1.25rem;
+    padding: 0.4rem 0.65rem;
     border-radius: 50%;
     color: $color-main;
     box-shadow: 0 0 10px #00000055;
   }
 }
 
-.feature {
+.benefit {
   display: flex;
   flex-direction: column;
   text-align: center;
 
-  .icon {
+  i {
     color: $color-main;
-    font-size: 10rem;
+    font-size: 7.5rem;
   }
 
   .description {
@@ -95,14 +107,14 @@ $color-main: #0075ff;
   justify-content: center;
   align-items: center;
 
-  .icon {
+  i {
     color: $color-main;
     font-size: 10rem;
     padding: 0;
   }
 
   .title {
-    margin-top: -2rem;
+    margin-top: -1rem;
     font-size: 1.5rem;
     font-weight: 600;
   }
