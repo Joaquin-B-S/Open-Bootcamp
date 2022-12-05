@@ -1,0 +1,15 @@
+E:\Open Bootcamp\08-C#\01-HolaMundo\bin\Debug\net6.0\01-HolaMundo.exe
+E:\Open Bootcamp\08-C#\01-HolaMundo\bin\Debug\net6.0\01-HolaMundo.deps.json
+E:\Open Bootcamp\08-C#\01-HolaMundo\bin\Debug\net6.0\01-HolaMundo.runtimeconfig.json
+E:\Open Bootcamp\08-C#\01-HolaMundo\bin\Debug\net6.0\01-HolaMundo.dll
+E:\Open Bootcamp\08-C#\01-HolaMundo\bin\Debug\net6.0\01-HolaMundo.pdb
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.csproj.AssemblyReference.cache
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.AssemblyInfoInputs.cache
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.AssemblyInfo.cs
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.csproj.CoreCompileInputs.cache
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.dll
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\refint\01-HolaMundo.dll
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.pdb
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\01-HolaMundo.genruntimeconfig.cache
+E:\Open Bootcamp\08-C#\01-HolaMundo\obj\Debug\net6.0\ref\01-HolaMundo.dll

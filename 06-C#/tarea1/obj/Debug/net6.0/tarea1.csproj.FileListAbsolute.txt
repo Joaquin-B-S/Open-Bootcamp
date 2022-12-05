@@ -1,0 +1,15 @@
+E:\Open Bootcamp\08-C#\tarea1\bin\Debug\net6.0\tarea1.exe
+E:\Open Bootcamp\08-C#\tarea1\bin\Debug\net6.0\tarea1.deps.json
+E:\Open Bootcamp\08-C#\tarea1\bin\Debug\net6.0\tarea1.runtimeconfig.json
+E:\Open Bootcamp\08-C#\tarea1\bin\Debug\net6.0\tarea1.dll
+E:\Open Bootcamp\08-C#\tarea1\bin\Debug\net6.0\tarea1.pdb
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.csproj.AssemblyReference.cache
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.AssemblyInfoInputs.cache
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.AssemblyInfo.cs
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.csproj.CoreCompileInputs.cache
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.dll
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\refint\tarea1.dll
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.pdb
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\tarea1.genruntimeconfig.cache
+E:\Open Bootcamp\08-C#\tarea1\obj\Debug\net6.0\ref\tarea1.dll
